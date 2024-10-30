@@ -4,11 +4,11 @@ const sectionHome = () => {
   return (
     <>
       <section className="h-[800px] w-full flex items-start justify-center">
-        <div className="w-[90%] h-full flex justify-around items-center flex-col">
-          <h1 className="text-3xl font-bold md:text-5xl mb-4">
+        <div className="w-[90%] h-full flex justify-center items-center flex-col gap-8">
+          <h1 className="text-3xl font-bold md:text-5xl ">
             Coqui<span id='spanTitle' className="text-[#41b93b] font-bold">Cacao</span>
           </h1>
-          <p className="w-[80%] my-4 text-center md:w-3/5">
+          <p className="w-[80%] text-center md:w-3/5">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat
             laboriosam unde nesciunt veritatis perferendis vel nihil assumenda
             corrupti nam esse vitae reprehenderit, reiciendis iste ipsum,
