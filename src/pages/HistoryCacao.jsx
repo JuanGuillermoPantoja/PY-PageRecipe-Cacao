@@ -6,7 +6,7 @@ const HistoryCacao = () => {
   return (
     <>
       <Navbar />
-      <div className="flex justify-center items-center ">
+      <div className="flex justify-center items-center min-h-screen">
         <div className="w-4/5 h-full flex flex-col justify-center items-center text-center">
           <h2 className="text-2xl lg:text-4xl lg:font-bold my-4">Historia del cacao</h2>
           <p className="mb-4 lg:w-3/5">
