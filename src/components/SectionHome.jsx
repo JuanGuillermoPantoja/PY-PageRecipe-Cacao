@@ -4,7 +4,7 @@ const sectionHome = () => {
   return (
     <>
       <section className="h-[800px] w-full flex items-start justify-center">
-        <div className="w-[90%] h-full flex justify-center items-center flex-col">
+        <div className="w-[90%] h-full flex justify-around items-center flex-col">
           <h1 className="text-3xl font-bold md:text-5xl mb-4">
             Coqui<span id='spanTitle' className="text-[#41b93b] font-bold">Cacao</span>
           </h1>
