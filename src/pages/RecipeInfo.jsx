@@ -50,7 +50,7 @@ const RecipeInfo = () => {
         </button>
         <div className="flex flex-col items-center">
           <div className="flex flex-col justify-center items-center">
-            <h2 className="text-xl font-bold text-amber-700 sm:text-2xl sm:font-normal">
+            <h2 className="text-xl w-full text-center font-bold text-amber-700 sm:text-2xl sm:font-normal lg:text-4xl">
               {recipe.title}
             </h2>
             <p className="lg:text-xl">Descripción:</p>
