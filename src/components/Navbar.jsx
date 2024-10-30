@@ -48,7 +48,7 @@ const Navbar = () => {
                   activeLink === "home"
                     ? "bg-[#308d39]"
                     : "bg-[#41b94b] shadow-sm shadow-green-950"
-                } px-2 py-1 rounded-sm text-white sm:text-lg`}
+                } px-1 py-1 rounded-sm text-white sm:text-lg`}
                 to="/"
               >
                 Inicio
