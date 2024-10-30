@@ -14,7 +14,7 @@ const sectionHome = () => {
             corrupti nam esse vitae reprehenderit, reiciendis iste ipsum,
             voluptates harum, consequuntur dignissimos! Fugiat.
           </p>
-          <img className='w-2/5 border-2 border-gray-100 rounded-full md:w-1/3 lg:w-1/4' src={imgMazorcaCacao} alt="" />
+          <img className='w-3/5 border-2 border-gray-100 rounded-full md:w-1/3 lg:w-1/4' src={imgMazorcaCacao} alt="" />
         </div>
       </section>
     </>
