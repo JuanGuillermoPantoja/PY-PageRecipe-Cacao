@@ -22,7 +22,10 @@ const Navbar = () => {
 
   return (
     <>
-      <div id="bgNavbar" className="w-full flex  justify-center items-center py-2 border-b-[1px] border-green-200 ">
+      <div
+        id="bgNavbar"
+        className="bg-white w-full flex justify-center items-center py-2 border-b-[1px] border-gray-300 "
+      >
         <div className="w-[95%] flex-col justify-center items-center">
           <div className="w-full flex justify-center items-center m-2 sm:justify-between s">
             <img
@@ -30,7 +33,7 @@ const Navbar = () => {
               src="/images/Sennova.png"
               alt="sennova.png"
             />
-            <span className="bg-green-200 w-[1px] h-11 sm:h-0"></span>
+            <span className="bg-gray-100 w-[1px] h-11 sm:h-0"></span>
             <img
               className="w-1/3 sm:w-[35%] md:w-1/5"
               src="/images/coquita-logo-removebg-size.png"
@@ -42,7 +45,9 @@ const Navbar = () => {
               <Link
                 onClick={() => handleClick("home")}
                 className={`${
-                  activeLink === "home" ? "bg-[#308d39]" : "bg-[#41b94b] shadow-sm shadow-green-950"
+                  activeLink === "home"
+                    ? "bg-[#308d39]"
+                    : "bg-[#41b94b] shadow-sm shadow-green-950"
                 } px-2 py-1 rounded-sm text-white sm:text-lg`}
                 to="/"
               >
@@ -53,7 +58,9 @@ const Navbar = () => {
               <Link
                 onClick={() => handleClick("recipes")}
                 className={`${
-                  activeLink === "recipes" ? "bg-[#308d39]" : "bg-[#41b94b] shadow-sm shadow-green-950"
+                  activeLink === "recipes"
+                    ? "bg-[#308d39]"
+                    : "bg-[#41b94b] shadow-sm shadow-green-950"
                 } px-2 py-1 rounded-sm text-white sm:text-lg`}
                 to="/recipes-cacao"
               >
@@ -64,7 +71,9 @@ const Navbar = () => {
               <Link
                 onClick={() => handleClick("history")}
                 className={`${
-                  activeLink === "history" ? "bg-[#308d39]" : "bg-[#41b94b] shadow-sm shadow-green-950"
+                  activeLink === "history"
+                    ? "bg-[#308d39]"
+                    : "bg-[#41b94b] shadow-sm shadow-green-950"
                 } px-2 py-1 rounded-sm text-white sm:text-lg`}
                 to="/history-cacao"
               >

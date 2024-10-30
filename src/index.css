@@ -8,6 +8,8 @@
 
 body{
     background:linear-gradient(90deg, rgba(224,255,217,1) 0%, rgba(233,254,234,1) 50%, rgba(211,255,206,1) 100%);
+    background:linear-gradient(90deg, rgba(224,255,217,1) 0%, rgba(255,255,255,1) 20%, rgba(255,255,240,1) 80%, rgba(212,255,206,1) 100%);
+    background:linear-gradient(13deg, rgba(180,180,180,1) 0%, rgba(227,227,227,1) 16%, rgba(245,245,245,1) 30%, rgba(245,245,245,1) 60%, rgba(227,227,227,1) 90%, rgba(180,180,180,1) 100%);
 }
 *{
     font-family:"Roboto", sans-serif;
@@ -19,8 +21,6 @@ h1{
     font-family: "Bebas Neue", sans-serif;
 }
 
-
-
 h2{
     font-size: 1.25rem;
     font-family: "Bebas Neue", sans-serif;
@@ -30,6 +30,6 @@ h2{
     font-family: "Bebas Neue", sans-serif;
 }
 
-#bgNavbar{
+/*#bgNavbar{
     background:linear-gradient(90deg, rgba(224,255,217,1) 0%, rgba(233,254,234,1) 50%, rgba(211,255,206,1) 100%);
-}
+}*/
