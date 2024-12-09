@@ -12,7 +12,7 @@ const RecipeInfo = () => {
   const [animatePreparation, setAnimatePreparation] = useState(false);
   const [showIngredients, setShowIngredients] = useState(false);
   const [animateIngredients, setAnimateIngredients] = useState(false);
-  
+
   useEffect(() => {
     fetch("/recipes.json")
       .then((response) => response.json())
@@ -53,7 +53,15 @@ const RecipeInfo = () => {
             <h2 className="text-xl w-full text-center font-bold text-amber-700 sm:text-2xl sm:font-normal lg:text-4xl">
               {recipe.title}
             </h2>
-            <p className="lg:text-xl">Descripción:</p>
+            <p className="font-bold lg:text-xl">Autor</p>
+            <p className="text-sm text-center mb-2 sm:text-lg">
+              {recipe.author}
+            </p>
+            <p className="font-bold lg:text-xl">Tiempo de preparacion</p>
+            <p className="text-sm text-center mb-2 sm:text-lg">
+              {recipe.time}
+            </p>
+            <p className="font-bold lg:text-xl">Descripción:</p>
             <p className="w-[60%] text-sm text-center mb-2 sm:text-lg">
               {recipe.description}
             </p>
@@ -76,7 +84,11 @@ const RecipeInfo = () => {
 
             <div
               className={`w-[90%] bg-[#41b93b] rounded-md p-2 text-sm text-justify mb-2 sm:text-lg text-white transition-all duration-500 ease-in-out overflow-hidden lg:w-[60%]
-                ${showPreparation ? "max-h-[1000px] opacity-100" : "max-h-0 opacity-0"}
+                ${
+                  showPreparation
+                    ? "max-h-[1000px] opacity-100"
+                    : "max-h-0 opacity-0"
+                }
                 ${animatePreparation ? "h-auto" : ""}`}
             >
               {showPreparation && recipe.preparation}
@@ -84,7 +96,11 @@ const RecipeInfo = () => {
 
             <ul
               className={`w-[90%] bg-[#41b93b] rounded-md p-2 text-sm text-center mb-2 sm:text-lg text-white transition-all duration-500 ease-in-out overflow-hidden lg:w-[60%]
-                ${showIngredients ? "max-h-[1000px] opacity-100" : "max-h-0 opacity-0"}
+                ${
+                  showIngredients
+                    ? "max-h-[1000px] opacity-100"
+                    : "max-h-0 opacity-0"
+                }
                 ${animateIngredients ? "h-auto" : ""}`}
             >
               {showIngredients &&
@@ -98,7 +114,7 @@ const RecipeInfo = () => {
         </div>
         <div className="flex justify-center items-center">
           <img
-            className="bg-black w-[250px] h-[250px] rounded-md my-2 shadow-lg shadow-green-950 sm:w-[300px] sm:h-[300px]"
+            className="bg-black w-[250px] h-[250px] rounded-md my-2 shadow-lg shadow-green-950 sm:w-[450px] sm:h-[450px]"
             src={recipe.images[0]}
             alt=""
           />

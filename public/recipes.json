@@ -1,111 +1,298 @@
 [
   {
     "id": 1,
-    "title": "Brownies con cacao",
+    "title": "Chocolate con maní",
+    "author": "Luz Adriana Gaviria Erazo",
     "ingredients": [
-      "Huevos",
-      "Azucar",
-      "Mantequilla",
-      "Harina",
-      "Cacao puro en polvo",
-      "Vainilla",
-      "Nueces",
-      "Sal",
-      "Azucar glas"
+      "* 15 gramos de Licor de cacao,",
+      "* 15 gramos de mani,",
+      "* 1 gramo de clavos de olor,",
+      "* 1 gramo de canela,",
+      "* 1 gramo de nuez moscada,",
+      "* panela al gusto,",
+      "* 250 mililitros de leche,"
     ],
-    "preparation": "Precalentar el horno a 165º C y colocar la rejilla en el centro del horno. Engrasar y enharinar un molde rectangular, derretir la mantequilla en un cazo a fuego medio o en el microondas, n un bol grande mezclar el azúcar y el cacao en polvo. Añadir la mantequilla caliente y mezclar durante unos 4 minutos hasta que quede todo bien incorporado. añadir el extracto de vainilla, la sal y los huevos, de uno en uno, mezclando bien después de cada adición. Añadir la harina y mezclar con una espátula hasta que quede bien incorporada, Agregar las nueces troceadas, reservando 10-12 para decorar, Verter la mezcla en el molde y hornear durante 25-30 minutos a 160 ºC. o hasta que al insertar un palillo en el centro este salga con algunas migas pegadas (puede parecer que está crudo pero si lo horneáis en exceso, los browniess quedarán secos). Retirar del horno y dejar enfriar el molde sobre una rejilla, Una vez frío espolvorear con azúcar glasé y cortar en porciones, decorándolo con una nuez entera. Se pueden conservar a temperatura ambiente o en la nevera. Si queréis también los podéis congelar.",
+    "preparation": "Se tuesta el maní a fuego lento mezclando para evitar que se queme. cuando el maní este frio se ejerce una leve presión sobre los granos, que permita el desprendimiento de la cascarilla, sin dañar el grano, luego se sopla el maní procurando retirar solo la cascarilla. en una chocolatera se agrega la leche y se adicionan las especias, la panela y el maní previamente triturado. se deja hervir a fuego lento, en caso de que la leche espume y suba, se baja la temperatura y se deja 5 minutos para que el chocolate quede bien especiado",
     "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
-    "images": ["/images/ejemplo-cacao.jpg"]
+    "images": ["/images/chocolate_con_mani.jpg"],
+    "time": "40 minutos"
   },
   {
     "id": 2,
-    "title": "Brownies",
+    "title": "Chucula",
+    "author": "Carlos Barco",
     "ingredients": [
-      "Huevos",
-      "Azucar",
-      "Mantequilla",
-      "Harina",
-      "Cacao puro en polvo",
-      "Vainilla",
-      "Nueces",
-      "Sal",
-      "Azucar glas"
+      "* 750 gramos de licor de cacao,",
+      "* 75 gramos de frijol,",
+      "* 75 gramos de maíz amarillo,",
+      "* 75 gramos de lenteja,",
+      "* 75 gramos garbanzo,",
+      "* 550 gramos de panela,",
+      "* 2 gramos de clavos de olor,",
+      "* 2 gramos de canela,",
+      "* 50 mililitros de agua,",
+      "* 1 gramo de sal marina"
     ],
-    "preparation": "Precalentar el horno a 165º C y colocar la rejilla en el centro del horno. Engrasar y enharinar un molde rectangular, derretir la mantequilla en un cazo a fuego medio o en el microondas, n un bol grande mezclar el azúcar y el cacao en polvo. Añadir la mantequilla caliente y mezclar durante unos 4 minutos hasta que quede todo bien incorporado. añadir el extracto de vainilla, la sal y los huevos, de uno en uno, mezclando bien después de cada adición. Añadir la harina y mezclar con una espátula hasta que quede bien incorporada, Agregar las nueces troceadas, reservando 10-12 para decorar, Verter la mezcla en el molde y hornear durante 25-30 minutos a 160 ºC. o hasta que al insertar un palillo en el centro este salga con algunas migas pegadas (puede parecer que está crudo pero si lo horneáis en exceso, los browniess quedarán secos). Retirar del horno y dejar enfriar el molde sobre una rejilla, Una vez frío espolvorear con azúcar glasé y cortar en porciones, decorándolo con una nuez entera. Se pueden conservar a temperatura ambiente o en la nevera. Si queréis también los podéis congelar.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
-    "images": ["/images/grano-cacao.jpg"]
+    "preparation": "Se tuestan los granos (frijol, maíz amarillo, lentejas, garbanzos) se muelen y se tamizan . La panela se diluye en agua, hasta obtener un jarabe Se muele el licor de cacao y cuando este se encuentre pastoso, se adicionan por partes los demás ingredientes y se amasan hasta tener una masa homogénea. Se realizan bolitas de 30 gr de forma manual y se dejan enfriar. Se recomienda preparar la chucula en leche.",
+    "description": "Producto tradicional campesino con cacao y granos de cereales, hace parte de la cocina ancestral. La chucula es una bebida que  aporta energía y alto contenido nutricional para una alimentación sana y saludable. Con todas las vitaminas y minerales que el cuerpo necesita, es una receta económica y rendidora.",
+    "images": ["/images/chucula.jpg"],
+    "time": "90 minutos"
   },
   {
     "id": 3,
-    "title": "Brownies",
-    "ingredients": [
-      "Huevos",
-      "Azucar",
-      "Mantequilla",
-      "Harina",
-      "Cacao puro en polvo",
-      "Vainilla",
-      "Nueces",
-      "Sal",
-      "Azucar glas"
-    ],
-    "preparation": "Precalentar el horno a 165º C y colocar la rejilla en el centro del horno. Engrasar y enharinar un molde rectangular, derretir la mantequilla en un cazo a fuego medio o en el microondas, n un bol grande mezclar el azúcar y el cacao en polvo. Añadir la mantequilla caliente y mezclar durante unos 4 minutos hasta que quede todo bien incorporado. añadir el extracto de vainilla, la sal y los huevos, de uno en uno, mezclando bien después de cada adición. Añadir la harina y mezclar con una espátula hasta que quede bien incorporada, Agregar las nueces troceadas, reservando 10-12 para decorar, Verter la mezcla en el molde y hornear durante 25-30 minutos a 160 ºC. o hasta que al insertar un palillo en el centro este salga con algunas migas pegadas (puede parecer que está crudo pero si lo horneáis en exceso, los browniess quedarán secos). Retirar del horno y dejar enfriar el molde sobre una rejilla, Una vez frío espolvorear con azúcar glasé y cortar en porciones, decorándolo con una nuez entera. Se pueden conservar a temperatura ambiente o en la nevera. Si queréis también los podéis congelar.",
+    "title": "Vino de mucilago",
+    "author": "José Ignacio Andica",
+    "ingredients": ["* 5 litros de agua destilada,", "* 9 litros de mucilago de cacao,", "* 350 mililitros de jugo de naranja,", "* 14 gramos de levadura de panificacion granulada,", "* 1750 gramos de azucar blanca"],
+    "preparation": "Se filtra el mucilago pasándolo por un lienzo. Se mezcla el mucilago con el agua. Se adiciona el jugo de naranja y se mezcla bien. Se Calienta la mezcla a 85° por 15 minutos. Se adiciona hielo en una olla, se sumerge el recipiente con la mezcla hasta bajar la temperatura a 32° C, y generar un choque térmico. Se agrega la levadura granulada en un recipiente con agua tibia, se diluye y se agrega a la mezcla. Se adapta una ¨trampa¨ de aire, llamada airlock, en una botella, se adiciona la mezcla, se sella herméticamente y se almacena durante 15 días en un lugar fresco. Después de 15 días se abre, se separa el vino de la parte más turbia, y nuevamente se deja en la botella durante 1 mes más.",
     "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
-    "images": ["/images/grano-cacao.jpg"]
+    "images": ["/images/vino_de_cacao.jpg"],
+    "time": "20 minutos"
   },
   {
     "id": 4,
-    "title": "Brownies",
+    "title": "Pozole de cacao y maíz",
+    "author": "David Leonardo Torres Gaviria",
     "ingredients": [
-      "Huevos",
-      "Azucar",
-      "Mantequilla",
-      "Harina",
-      "Cacao puro en polvo",
-      "Vainilla",
-      "Nueces",
-      "Sal",
-      "Azucar glas"
+      "* 250 gramos de licor de cacao,",
+      "* 250 gramos de maíz,",
+      "* 250 gramos de ceniza,",
+      "* panela al gusto,",
+      "* 3 litros de agua,"
     ],
-    "preparation": "Precalentar el horno a 165º C y colocar la rejilla en el centro del horno. Engrasar y enharinar un molde rectangular, derretir la mantequilla en un cazo a fuego medio o en el microondas, n un bol grande mezclar el azúcar y el cacao en polvo. Añadir la mantequilla caliente y mezclar durante unos 4 minutos hasta que quede todo bien incorporado. añadir el extracto de vainilla, la sal y los huevos, de uno en uno, mezclando bien después de cada adición. Añadir la harina y mezclar con una espátula hasta que quede bien incorporada, Agregar las nueces troceadas, reservando 10-12 para decorar, Verter la mezcla en el molde y hornear durante 25-30 minutos a 160 ºC. o hasta que al insertar un palillo en el centro este salga con algunas migas pegadas (puede parecer que está crudo pero si lo horneáis en exceso, los browniess quedarán secos). Retirar del horno y dejar enfriar el molde sobre una rejilla, Una vez frío espolvorear con azúcar glasé y cortar en porciones, decorándolo con una nuez entera. Se pueden conservar a temperatura ambiente o en la nevera. Si queréis también los podéis congelar.",
+    "preparation": "Se selecciona el maíz y se lava muy bien, y la ceniza se debe cernir,   antes de utilizarse para el proceso de nixtamalización del maíz, se calienta el agua a fuego medio, se adiciona el maíz y se agrega la ceniza, se mezcla muy bien y cuando comience a hervir, se apaga el fuego y se deja quieto, se puede dar un volteo pasadas 8 horas. El proceso de nixtamalización se debe hacer de 2 a 3 días, y cuando el maíz esté listo se lava. El licor de cacao y el maíz se muelen de 2 a 5 veces, para que quede una masa homogénea y suave. Por último, se diluye la masa obtenida en agua, 200 gr/l y se adiciona panela al gusto se recomienda enfriar y consumir fría.",
     "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
-    "images": ["/images/grano-cacao.jpg"]
+    "images": ["/images/pozole.jpg"],
+    "time": "4 días"
   },
   {
     "id": 5,
-    "title": "Brownies",
+    "title": "Nibs caramelizados (Garrapiñado)",
+    "author": "Jose Nicolas Torre Gaviria",
     "ingredients": [
-      "Huevos",
-      "Azucar",
-      "Mantequilla",
-      "Harina",
-      "Cacao puro en polvo",
-      "Vainilla",
-      "Nueces",
-      "Sal",
-      "Azucar glas"
+      "* 900 gramos de nibs de cacao,",
+      "* 300 gramos de panela (rayada o en polvo),",
+      "* 250 mililitros de agua,",
+      "* 45 mililitros de zumo de limon,",
+      "* 100 gramos de licor de cacao,"
     ],
-    "preparation": "Precalentar el horno a 165º C y colocar la rejilla en el centro del horno. Engrasar y enharinar un molde rectangular, derretir la mantequilla en un cazo a fuego medio o en el microondas, n un bol grande mezclar el azúcar y el cacao en polvo. Añadir la mantequilla caliente y mezclar durante unos 4 minutos hasta que quede todo bien incorporado. añadir el extracto de vainilla, la sal y los huevos, de uno en uno, mezclando bien después de cada adición. Añadir la harina y mezclar con una espátula hasta que quede bien incorporada, Agregar las nueces troceadas, reservando 10-12 para decorar, Verter la mezcla en el molde y hornear durante 25-30 minutos a 160 ºC. o hasta que al insertar un palillo en el centro este salga con algunas migas pegadas (puede parecer que está crudo pero si lo horneáis en exceso, los browniess quedarán secos). Retirar del horno y dejar enfriar el molde sobre una rejilla, Una vez frío espolvorear con azúcar glasé y cortar en porciones, decorándolo con una nuez entera. Se pueden conservar a temperatura ambiente o en la nevera. Si queréis también los podéis congelar.",
+    "preparation": "En una olla a fuego medio se adiciona la panela, el agua, el limón y el licor de cacao. Se mezclan muy bien los ingredientes, hasta alcanzar una temperatura de 95° y una textura de caramelo. Se adicionan los nibs de cacao y se mezclan hasta que los ingredientes se homogenicen. Se extienden los granos sobre una bandeja y se separan de forma manual, hasta que se compacten, sin quedar unidos.",
     "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
-    "images": ["/images/grano-cacao.jpg"]
+    "images": ["/images/nibs_caramelizados.jpg"],
+    "time": "30 minutos"
   },
   {
     "id": 6,
-    "title": "Brownies",
+    "title": "Brownies de cascarilla de cacao",
+    "author": "Laura López",
     "ingredients": [
-      "Huevos",
-      "Azucar",
-      "Mantequilla",
-      "Harina",
-      "Cacao puro en polvo",
-      "Vainilla",
-      "Nueces",
-      "Sal",
-      "Azucar glas"
+      "* 45 gramos de cascarilla de cacao molida,",
+      "* 75 gramos de harina de trigo,",
+      "* 60 gramos de mantequilla,",
+      "* 100 gramos de panela en polvo,",
+      "* 5 mililitros extracto de vainilla,",
+      "* 5 gramos de polvo de hornear,",
+      "* 125 mililitros taza de agua,",
+      "* 2 huevos,",
+      "* Nibs de cacao al gusto"
     ],
-    "preparation": "Precalentar el horno a 165º C y colocar la rejilla en el centro del horno. Engrasar y enharinar un molde rectangular, derretir la mantequilla en un cazo a fuego medio o en el microondas, n un bol grande mezclar el azúcar y el cacao en polvo. Añadir la mantequilla caliente y mezclar durante unos 4 minutos hasta que quede todo bien incorporado. añadir el extracto de vainilla, la sal y los huevos, de uno en uno, mezclando bien después de cada adición. Añadir la harina y mezclar con una espátula hasta que quede bien incorporada, Agregar las nueces troceadas, reservando 10-12 para decorar, Verter la mezcla en el molde y hornear durante 25-30 minutos a 160 ºC. o hasta que al insertar un palillo en el centro este salga con algunas migas pegadas (puede parecer que está crudo pero si lo horneáis en exceso, los browniess quedarán secos). Retirar del horno y dejar enfriar el molde sobre una rejilla, Una vez frío espolvorear con azúcar glasé y cortar en porciones, decorándolo con una nuez entera. Se pueden conservar a temperatura ambiente o en la nevera. Si queréis también los podéis congelar.",
+    "preparation": "Se calienta el agua y en un recipiente se mezcla con los huevos y el extracto de vainilla. Se tamizan las harinas y se mezclan con la mantequilla, la panela en polvo y el polvo de hornear, hasta obtener una mezcla homogénea se mezclan los ingredientes húmedos con los secos, mezclando muy bien, se en molda, se adicionan los nibs de cacao en la superficie y se hornean a 180° c por 25 minutos",
     "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
-    "images": ["/images/grano-cacao.jpg"]
+    "images": ["/images/brownies_de_cacao.jpg"],
+    "time": "50 minutos"
+  },
+  {
+    "id": 7,
+    "title": "Torta de cacao con amareto",
+    "author": "Juan Carlos García",
+    "ingredients": [
+      "* 30 gramos de polvo para hornear,",
+      "* 375 gramos de harina de trigo,",
+      "* 80 gramos de cocoa,",
+      "* 2 huevos,",
+      "* 300 mililitros de leche,",
+      "* 400 gramos de azucar,",
+      "* 140 gramos de aceite de girasol,",
+      "* 15 mililitros esencia de vainilla,",
+      "* 15 mililitros de chorro de amareto"
+    ],
+    "preparation": "En un recipiente se mezcla la harina, la cocoa y el polvo de hornear. En otro recipiente se bate el azúcar, la esencia de vainilla, el amaretto y los huevos. a la mezcla húmeda se le adiciona la mitad de la mezcla en polvo, la mitad de la leche y se sigue batiendo se agrega el resto de mezcla en polvo y de leche y se bate bien hasta obtener una mezcla homogénea y consistente. el molde se debe aceitar muy bien, se agrega la mezcla, los nibs y se incorporan bien, se golpea el molde para sacar el aire y lograr que la torta se esponje. previamente se calienta el horno a 180°c y por último se hornea la torta por 60 minutos a la misma temperatura",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/torta_de_cacao_con_amaretto.jpg"],
+    "time": "90 minutos"
+  },
+  {
+    "id": 8,
+    "title": "Licor, pasta o masa de cacao",
+    "author": "Yuliana Andrea Trujillo Cardona",
+    "ingredients": [
+      "* Nibs de cacao"
+    ],
+    "preparation": "se toman los nibs de cacao y se muelen. Si se cuenta con una refinadora conchadora se deja aproximadamente de 8 a 12 horas, si se hace en un molino tradicional, se puede repetir la molienda de 3 a 5 veces,  entre más refinado quede el cacao, su textura será más suave y será más fácil de disolver.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/licor_pasta_o_masa_de_cacao.jpg"],
+    "time": ""
+  },
+  {
+    "id": 9,
+    "title": "Nibs de cacao",
+    "author": "Yuliana Andrea Trujillo Cardona",
+    "ingredients": [
+      "* cacao seco"
+    ],
+    "preparation": "Se precalienta la paila, si se desea hacer en un horno, se precalienta a 120° se separan los granos de cacao de acuerdo al tamaño, se puede utilizar una zaranda, esto se hace para no  quemar el cacao se depositan los granos en la paila y se tuestan durante 15 - 20 minutos, revolviendo constantemente, si el proceso se desarrolla en un horno, se dejan hornear los granos por 20- 25 minutos. después de que los granos estén tostados se pueden descascarillar de forma manual, quitando la cascarilla grano a grano o triturándolos y soplándolos.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/Nibs_de_cacao.jpg"],
+    "time": ""
+  },
+  {
+    "id": 10,
+    "title": "Chocolate con caparazón de gurre",
+    "author": "Amparo Erazo",
+    "ingredients": [
+      "* 50 Licor de cacao,",
+      "* 20 gramos concha de gurre,",
+      "* 2 gramos clavos de olor,",
+      "* 5 gramos de canela,",
+      "* 3 gramos nuez moscada,",
+      "* panela al gusto,",
+      "* 1 litro de agua,"
+    ],
+    "preparation": "Se precalienta la paila, si se desea hacer en un horno, se precalienta a 120° se separan los granos de cacao de acuerdo al tamaño, se puede utilizar una zaranda, esto se hace para no  quemar el cacao se depositan los granos en la paila y se tuestan durante 15 - 20 minutos, revolviendo constantemente, si el proceso se desarrolla en un horno, se dejan hornear los granos por 20- 25 minutos. después de que los granos estén tostados se pueden descascarillar de forma manual, quitando la cascarilla grano a grano o triturándolos y soplándolos.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/Chocolate_con_caparazon_de_gurre.jpg"],
+    "time": "40 minutos"
+  },
+  {
+    "id": 11,
+    "title": "Chocolate al 70%",
+    "author": "José Nicolas Torres Gaviria",
+    "ingredients": [
+      "* 770 gramos nibs de cacao,",
+      "* 330 gramos de azucar,"
+    ],
+    "preparation": "En una refinadora, se agregan los nibs de cacao y se dejan refinar por 24 horas. después de 24 horas, que el cacao este sedoso se adiciona el azúcar lentamente y se deja refinando por 48 horas. cuando el chocolate este refinado, se en molda y se enfría hasta que compacte, se empaca muy bien y se deja estabilizar durante 1 mes. para el atemperado se derrite el chocolate al baño maría  hasta que la temperatura este entre 45 -50°c. se sacan 3/4 partes de la mezcla y se extiende en un mesón (preferiblemente de mármol, granito) con ayuda de espátulas y se recoge, esta acción se repite  hasta que alcance una temperatura de 27°, se recoge el chocolate en la olla con la 1/4 parte restante y se  homogeniza hasta obtener una temperatura de 32°. luego se en molda y se refrigera hasta que se compacte los ingredientes y procesos seleccionados dependen del criterio del chocolatero, esta preparación fue tomada de la experiencia del transformador.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/chocolate_70_porciento.jpg"],
+    "time": "4 días"
+  },
+  {
+    "id": 12,
+    "title": "Pan de masa madre con cacao",
+    "author": "María Inés Amézquita",
+    "ingredients": [
+      "* 250 Gramos de chocolate al 70%,",
+      "* 300 Gramos de masa madre,",
+      "* 60 gramos de leche en polvo,",
+      "* 100 gramos de harina de cacota de cacao,",
+      "* 1000 gramos de harina de trigo,",
+      "* 400 mililitros de leche liquida,",
+      "* 180 gramos de crema de leche,",
+      "* 10 gramos de levadura fresca,",
+      "* 150 gramos de azucar,",
+      "* 2 gramos de sal,",
+      "* 2 huevos,",
+      "* 100 gramos cocoa,"
+    ],
+    "preparation": "En un recipiente se colocan las harinas, la leche en polvo, el azúcar, y la sal. la levadura se disuelve en 20 ml de leche y se incorpora al recipiente, mezclando con la ayuda de una espátula se vierte el resto de la leche líquida,  la crema de leche, los huevos, la masa madre y se mezcla durante 40 minutos, hasta que la mezcla quede elástica y no se rompa. la masa se deja reposar cubierta con un paño humedecido, hasta que doble el tamaño. posteriormente esta se corta en 2 partes, de las cuales a una se le agrega la cocoa se cortan y se pesan trozos por separado de 60 gr de la masa y se aplanan con un rodillo se extienden dos láminas de masa de diferente color en forma paralela y dejando 1 cm de espacio entre ambas laminas se hace un corte por el centro de las masas, que no parta por completo ambas laminas, pero si quede alineado. en uno de los cuadrantes de la masa se adiciona chocolate al 70% previamente derretido al baño maría , luego con la esquina paralela de la otra masa se cubre el cuadrante que contiene el chocolate a los dos cuadrantes restantes de las masas se cortan pequeñas tiras, que se trenzan para darle forma al pan, se bate un huevo y se aplica sobre la superficie del pan. para terminar, se deja reposar por 10 minutos se precalienta el horno durante 15 minutos a 180°, y se hornea el pan por 40 minutos a la misma temperatura.",
+    "description": "El pan de chocolate es una exquisita preparación que combina la suavidad y esponjosidad del pan con el rico y profundo sabor del chocolate. Este delicioso manjar se presenta en diversas formas, desde panes artesanales hasta rollos suaves, y es perfecto para cualquier momento del día, ya sea como desayuno, merienda o postre, ideal para acompañar un buen café.",
+    "images": ["/images/pan de masa madre de cacao 2.jpg"],
+    "time": "3 horas"
+  },
+  {
+    "id": 13,
+    "title": "Coctel de mucilago de cacao",
+    "author": "Jhon Robert Samboni",
+    "ingredients": [
+      "* 60 mililitros de mucilago de cacao,",
+      "* 60 mililitros de aguardiente amarillo,",
+      "* 30 mililitros de zumo de limón,",
+      "* 10 hojas de hierba buena,",
+      "* hielo,"
+    ],
+    "preparation": "En un shaker o mezclador se adiciona el hielo. Luego se vierte el mucilago, el limón,  el aguardiente y se agita muy bien. En un vaso se agrega hielo, las hojas de hierbabuena, y estas se maceran. El contenido del shaker o mezclador se sirve en el vaso con hielo y hierbabuena.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/coctail_cacao.jpg"],
+    "time": "10 minutos"
+  },
+  {
+    "id": 14,
+    "title": "Natilla de cacao",
+    "author": "Oscar Arbelaez",
+    "ingredients": [
+      "* 100 gramos licor de cacao,",
+      "* 1 litro de leche,",
+      "* 10 gramos de canela,",
+      "* 50 gramos de fecula de maíz,",
+      "* 3 gramos clavos de olor,",
+      "* 120 gramos de panela"
+    ],
+    "preparation": "se calienta la leche con la panela y el cacao y se mezcla muy bien hasta que la mezcla se derrita. se vierte la fécula de maíz en una taza con 250 ml de leche al clima y se mezcla bien, luego se incorpora el resto de la leche. se agregan los clavos y la canela y se mezcla todo hasta que comience a hervir y aparezcan las burbujas. cuando la natilla este bien espesa, se pasa a un molde previamente engrasado. se mete al congelador durante 15 minutos. después de que la natilla esté listo se puede espolvorear con maíz nixtamalizado o semillas de chía hidratadas.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/natilla_de_cacao.jpg"],
+    "time": "60 minutos"
+  },
+  {
+    "id": 15,
+    "title": "Manteca de cacao",
+    "author": "José Nicolas Torres Gaviria ",
+    "ingredients": [
+      "* licor de cacao"
+    ],
+    "preparation": "del anterior proceso se toma el líquido proveniente del cilindro y se canaliza en un recipiente y se deja enfría a temperatura ambiente en un lugar fresco, libre de humedad. Después de obtener la manteca de cacao,  se puede aclarar por un proceso de desodorización o filtrado.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/manteca_de_cacao.jpg"],
+    "time": ""
+  },
+  {
+    "id": 16,
+    "title": "Cocoa",
+    "author": "José Nicolas Torres Gaviria ",
+    "ingredients": [
+      "* licor de cacao"
+    ],
+    "preparation": "para la elaboración de cocoa se necesitan equipos que permitan ejercer la presión necesaria para extraer la manteca de cacao (1300 a 2500 psi). El licor de cacao se introduce en una bolsa de lienzo o filt ro resistente, luego se pasa al cilindro con agujeros de la prensa. Se comienza a ejercer presión de forma gradual con la placa de prensado. Se percibe una sustancia aceitosa de color amarillo claro destilando por los orificios del cilindro, que se canaliza en un recipiente. Cuando la prensa no permita ejercer más presión se sube la placa. Se saca el contenido del cilindro , el cual contiene la cocoa en bloque y se parte de forma que quede fina.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/cocoa.jpg"],
+    "time": ""
+  },
+  {
+    "id": 17,
+    "title": "Protector de labios",
+    "author": "Manuela Torres Gaviria ",
+    "ingredients": [
+      "* 40 gramos de aceite de oliva,",
+      "* 20 gramos de manteca de cacao,",
+      "* 5 gramos de chocolate al 70%",
+      "* 15 gramos de cera de abeja,"
+    ],
+    "preparation": "Se inicia derritiendo la manteca de cacao y el chocolate al 70%. Después se incorpora la cera de abeja y se mezcla hasta que se derrita completamente. Cuando los ingredientes estén derretidos se adiciona el aceite de oliva y se mezcla muy bien. Se vierte en el recipiente donde lo almacenaremos y se lleva a congelador por 20 minutos.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/protector_de_chocolate_para_labios.jpg"],
+    "time": "40 minutos"
+  },
+  {
+    "id": 18,
+    "title": "Salsa de mango y cacao",
+    "author": "Hugo León Sanclemente",
+    "ingredients": [
+      "* 3 mangos maduros,",
+      "* 150 gramos de licor de cacao,",
+      "* 15 gramos de panela en polvo",
+      "* 5 gramos de pimienta en polvo,"
+    ],
+    "preparation": "Se ralla el cacao, la panela y se mezclan muy bien. La mezcla se pone al baño maría y se deja hervir 3 veces. Se tuesta el maní y la quinoa. se incorpora el maní, la quinoa y el polen, se mezclan y se en molda. se deja enfriar a temperatura ambiente y cuando esté duro, se desmolda.",
+    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "images": ["/images/salsa_cacao_y_mango.jpg"],
+    "time": "60 minutos"
+  },
+  {
+    "id": 19,
+    "title": "Té de cascarilla",
+    "author": "Carlos Ramon",
+    "ingredients": ["* 15 gramos de cacao seco,", "* 200 mililitro de agua"],
+    "preparation": "se recoge la cascarilla del cacao obtenida de la tostion y el descascarillado de los granos y se tritura hasta dejarla medio fina. se introduce la cascarilla en un filtro de café o un colador y se vierte agua caliente de 80 a 90° lentamente.",
+    "description": "El té de cascarilla de cacao es una infusión que se obtiene de la cascarilla de las semillas de cacao tostado. Se caracteriza por su sabor suave y aromático a chocolate.",
+    "images": ["/images/te_de_cacao.jpg"],
+    "time": "20 minutos"
   }
-  
 ]
