@@ -30,6 +30,13 @@ h2{
 #spanTitle{
     font-family: "Bebas Neue", sans-serif;
 }
+#welcomeHome {
+    background: url(/images/background_home.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    opacity:calc(4);
+}
 
 /*#bgNavbar{
     background:linear-gradient(90deg, rgba(224,255,217,1) 0%, rgba(233,254,234,1) 50%, rgba(211,255,206,1) 100%);
