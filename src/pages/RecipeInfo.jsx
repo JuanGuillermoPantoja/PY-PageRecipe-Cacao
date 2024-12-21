@@ -53,15 +53,15 @@ const RecipeInfo = () => {
             <h2 className="text-xl w-full text-center font-bold text-amber-700 sm:text-2xl sm:font-normal lg:text-4xl">
               {recipe.title}
             </h2>
-            <p className="font-bold text-sm w-[60%] lg:text-xl">Autor</p>
+            <p className="font-bold text-sm w-[60%] text-center lg:text-xl">Autor</p>
             <p className="w-[60%] text-sm text-center mb-2 sm:text-lg">
               {recipe.author}
             </p>
-            <p className="font-bold text-sm w-[60%] lg:text-xl">Tiempo de preparacion</p>
+            <p className="font-bold text-sm w-[60%] text-center lg:text-xl">Tiempo de preparacion</p>
             <p className="w-[60%] text-sm text-center mb-2 sm:text-lg">
               {recipe.time}
             </p>
-            <p className="font-bold text-sm w-[60%] lg:text-xl">Descripción:</p>
+            <p className="font-bold text-sm text-center w-[60%] lg:text-xl">Descripción:</p>
             <p className="w-[60%] text-sm text-center mb-2 sm:text-lg">
               {recipe.description}
             </p>
