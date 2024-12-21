@@ -13,7 +13,7 @@
       "* 250 mililitros de leche,"
     ],
     "preparation": "Se tuesta el maní a fuego lento mezclando para evitar que se queme. cuando el maní este frio se ejerce una leve presión sobre los granos, que permita el desprendimiento de la cascarilla, sin dañar el grano, luego se sopla el maní procurando retirar solo la cascarilla. en una chocolatera se agrega la leche y se adicionan las especias, la panela y el maní previamente triturado. se deja hervir a fuego lento, en caso de que la leche espume y suba, se baja la temperatura y se deja 5 minutos para que el chocolate quede bien especiado",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Bebida espesa nutritiva y saludable, rica fuente de antioxidantes y grasas monoinsaturadas, utilizada tradicionalmente durante los embarazos, se caracteriza por su sabor amargo y a frutos secos.",
     "images": ["/images/chocolate_con_mani.jpg"],
     "time": "40 minutos"
   },
@@ -44,7 +44,7 @@
     "author": "José Ignacio Andica",
     "ingredients": ["* 5 litros de agua destilada,", "* 9 litros de mucilago de cacao,", "* 350 mililitros de jugo de naranja,", "* 14 gramos de levadura de panificacion granulada,", "* 1750 gramos de azucar blanca"],
     "preparation": "Se filtra el mucilago pasándolo por un lienzo. Se mezcla el mucilago con el agua. Se adiciona el jugo de naranja y se mezcla bien. Se Calienta la mezcla a 85° por 15 minutos. Se adiciona hielo en una olla, se sumerge el recipiente con la mezcla hasta bajar la temperatura a 32° C, y generar un choque térmico. Se agrega la levadura granulada en un recipiente con agua tibia, se diluye y se agrega a la mezcla. Se adapta una ¨trampa¨ de aire, llamada airlock, en una botella, se adiciona la mezcla, se sella herméticamente y se almacena durante 15 días en un lugar fresco. Después de 15 días se abre, se separa el vino de la parte más turbia, y nuevamente se deja en la botella durante 1 mes más.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Bebida alcohólica tradicional, de sabor dulce y afrutado, que puede contener entre el 5 y 15% de alcohol.",
     "images": ["/images/vino_de_cacao.jpg"],
     "time": "20 minutos"
   },
@@ -60,7 +60,7 @@
       "* 3 litros de agua,"
     ],
     "preparation": "Se selecciona el maíz y se lava muy bien, y la ceniza se debe cernir,   antes de utilizarse para el proceso de nixtamalización del maíz, se calienta el agua a fuego medio, se adiciona el maíz y se agrega la ceniza, se mezcla muy bien y cuando comience a hervir, se apaga el fuego y se deja quieto, se puede dar un volteo pasadas 8 horas. El proceso de nixtamalización se debe hacer de 2 a 3 días, y cuando el maíz esté listo se lava. El licor de cacao y el maíz se muelen de 2 a 5 veces, para que quede una masa homogénea y suave. Por último, se diluye la masa obtenida en agua, 200 gr/l y se adiciona panela al gusto se recomienda enfriar y consumir fría.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Bebida espesa y refrescante, a base de maíz y cacao, altamente nutritiva y saludable,  se consume fría, fuente de energía e hidratación.",
     "images": ["/images/pozole.jpg"],
     "time": "4 días"
   },
@@ -76,7 +76,7 @@
       "* 100 gramos de licor de cacao,"
     ],
     "preparation": "En una olla a fuego medio se adiciona la panela, el agua, el limón y el licor de cacao. Se mezclan muy bien los ingredientes, hasta alcanzar una temperatura de 95° y una textura de caramelo. Se adicionan los nibs de cacao y se mezclan hasta que los ingredientes se homogenicen. Se extienden los granos sobre una bandeja y se separan de forma manual, hasta que se compacten, sin quedar unidos.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "granos de cacao tostados y descascarillados, recubiertos de panela, que les da un sabor dulce y permite su consumo como snack.",
     "images": ["/images/nibs_caramelizados.jpg"],
     "time": "30 minutos"
   },
@@ -96,7 +96,7 @@
       "* Nibs de cacao al gusto"
     ],
     "preparation": "Se calienta el agua y en un recipiente se mezcla con los huevos y el extracto de vainilla. Se tamizan las harinas y se mezclan con la mantequilla, la panela en polvo y el polvo de hornear, hasta obtener una mezcla homogénea se mezclan los ingredientes húmedos con los secos, mezclando muy bien, se en molda, se adicionan los nibs de cacao en la superficie y se hornean a 180° c por 25 minutos",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Pastel húmedo tipo brownie, de sabor intenso a chocolate, y que sustituye en un 40% la harina de trigo por harina de cascarilla de cacao.",
     "images": ["/images/brownies_de_cacao.jpg"],
     "time": "50 minutos"
   },
@@ -116,7 +116,7 @@
       "* 15 mililitros de chorro de amareto"
     ],
     "preparation": "En un recipiente se mezcla la harina, la cocoa y el polvo de hornear. En otro recipiente se bate el azúcar, la esencia de vainilla, el amaretto y los huevos. a la mezcla húmeda se le adiciona la mitad de la mezcla en polvo, la mitad de la leche y se sigue batiendo se agrega el resto de mezcla en polvo y de leche y se bate bien hasta obtener una mezcla homogénea y consistente. el molde se debe aceitar muy bien, se agrega la mezcla, los nibs y se incorporan bien, se golpea el molde para sacar el aire y lograr que la torta se esponje. previamente se calienta el horno a 180°c y por último se hornea la torta por 60 minutos a la misma temperatura",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Torta húmeda y esponjosa caracterizada por su sabor intenso a chocolate semiamargo y alicorado, de textura suave y un poco Crunchy, por los nibs de cacao.",
     "images": ["/images/torta_de_cacao_con_amaretto.jpg"],
     "time": "90 minutos"
   },
@@ -128,7 +128,7 @@
       "* Nibs de cacao"
     ],
     "preparation": "se toman los nibs de cacao y se muelen. Si se cuenta con una refinadora conchadora se deja aproximadamente de 8 a 12 horas, si se hace en un molino tradicional, se puede repetir la molienda de 3 a 5 veces,  entre más refinado quede el cacao, su textura será más suave y será más fácil de disolver.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "La pasta o licor de cacao es un producto que se obtiene del cacao sin cáscara ni germen, y que se caracteriza por su textura pastosa y su alto contenido de antioxidantes NTC 486:2023.",
     "images": ["/images/licor_pasta_o_masa_de_cacao.jpg"],
     "time": ""
   },
@@ -140,7 +140,7 @@
       "* cacao seco"
     ],
     "preparation": "Se precalienta la paila, si se desea hacer en un horno, se precalienta a 120° se separan los granos de cacao de acuerdo al tamaño, se puede utilizar una zaranda, esto se hace para no  quemar el cacao se depositan los granos en la paila y se tuestan durante 15 - 20 minutos, revolviendo constantemente, si el proceso se desarrolla en un horno, se dejan hornear los granos por 20- 25 minutos. después de que los granos estén tostados se pueden descascarillar de forma manual, quitando la cascarilla grano a grano o triturándolos y soplándolos.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Granos de cacao tostados y descascarillados.",
     "images": ["/images/Nibs_de_cacao.jpg"],
     "time": ""
   },
@@ -158,7 +158,7 @@
       "* 1 litro de agua,"
     ],
     "preparation": "Se precalienta la paila, si se desea hacer en un horno, se precalienta a 120° se separan los granos de cacao de acuerdo al tamaño, se puede utilizar una zaranda, esto se hace para no  quemar el cacao se depositan los granos en la paila y se tuestan durante 15 - 20 minutos, revolviendo constantemente, si el proceso se desarrolla en un horno, se dejan hornear los granos por 20- 25 minutos. después de que los granos estén tostados se pueden descascarillar de forma manual, quitando la cascarilla grano a grano o triturándolos y soplándolos.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Bebida medicinal y tradicional, amarga con un sabor a chocolate especiado, utilizada al inicio de los embarazos para disminuir las molestias y evitar contratiempos.",
     "images": ["/images/Chocolate_con_caparazon_de_gurre.jpg"],
     "time": "40 minutos"
   },
@@ -171,7 +171,7 @@
       "* 330 gramos de azucar,"
     ],
     "preparation": "En una refinadora, se agregan los nibs de cacao y se dejan refinar por 24 horas. después de 24 horas, que el cacao este sedoso se adiciona el azúcar lentamente y se deja refinando por 48 horas. cuando el chocolate este refinado, se en molda y se enfría hasta que compacte, se empaca muy bien y se deja estabilizar durante 1 mes. para el atemperado se derrite el chocolate al baño maría  hasta que la temperatura este entre 45 -50°c. se sacan 3/4 partes de la mezcla y se extiende en un mesón (preferiblemente de mármol, granito) con ayuda de espátulas y se recoge, esta acción se repite  hasta que alcance una temperatura de 27°, se recoge el chocolate en la olla con la 1/4 parte restante y se  homogeniza hasta obtener una temperatura de 32°. luego se en molda y se refrigera hasta que se compacte los ingredientes y procesos seleccionados dependen del criterio del chocolatero, esta preparación fue tomada de la experiencia del transformador.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Chocolate de consumo directo, que contiene cacao y azúcar NTC 792.",
     "images": ["/images/chocolate_70_porciento.jpg"],
     "time": "4 días"
   },
@@ -210,7 +210,7 @@
       "* hielo,"
     ],
     "preparation": "En un shaker o mezclador se adiciona el hielo. Luego se vierte el mucilago, el limón,  el aguardiente y se agita muy bien. En un vaso se agrega hielo, las hojas de hierbabuena, y estas se maceran. El contenido del shaker o mezclador se sirve en el vaso con hielo y hierbabuena.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Bebida alcohólica tipo cóctel  , caracterizada por su sabor dulce, ácido y fuerte.",
     "images": ["/images/coctail_cacao.jpg"],
     "time": "10 minutos"
   },
@@ -227,7 +227,7 @@
       "* 120 gramos de panela"
     ],
     "preparation": "se calienta la leche con la panela y el cacao y se mezcla muy bien hasta que la mezcla se derrita. se vierte la fécula de maíz en una taza con 250 ml de leche al clima y se mezcla bien, luego se incorpora el resto de la leche. se agregan los clavos y la canela y se mezcla todo hasta que comience a hervir y aparezcan las burbujas. cuando la natilla este bien espesa, se pasa a un molde previamente engrasado. se mete al congelador durante 15 minutos. después de que la natilla esté listo se puede espolvorear con maíz nixtamalizado o semillas de chía hidratadas.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Postre tipo pudin o flan, derivado de la receta tradicional con maíz, pero incorporando lo amargo del chocolate.",
     "images": ["/images/natilla_de_cacao.jpg"],
     "time": "60 minutos"
   },
@@ -239,7 +239,7 @@
       "* licor de cacao"
     ],
     "preparation": "del anterior proceso se toma el líquido proveniente del cilindro y se canaliza en un recipiente y se deja enfría a temperatura ambiente en un lugar fresco, libre de humedad. Después de obtener la manteca de cacao,  se puede aclarar por un proceso de desodorización o filtrado.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "La manteca de cacao es una grasa vegetal que se obtiene de los granos de cacao. Se extrae mediante prensado a alta presión y filtración para eliminar los restos sólidos NTC 574.",
     "images": ["/images/manteca_de_cacao.jpg"],
     "time": ""
   },
@@ -251,7 +251,7 @@
       "* licor de cacao"
     ],
     "preparation": "para la elaboración de cocoa se necesitan equipos que permitan ejercer la presión necesaria para extraer la manteca de cacao (1300 a 2500 psi). El licor de cacao se introduce en una bolsa de lienzo o filt ro resistente, luego se pasa al cilindro con agujeros de la prensa. Se comienza a ejercer presión de forma gradual con la placa de prensado. Se percibe una sustancia aceitosa de color amarillo claro destilando por los orificios del cilindro, que se canaliza en un recipiente. Cuando la prensa no permita ejercer más presión se sube la placa. Se saca el contenido del cilindro , el cual contiene la cocoa en bloque y se parte de forma que quede fina.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "El cacao en polvo o cocoa se obtiene de los granos del árbol de cacao, mediante un proceso que reduce la manteca del cacao hasta obtener una textura pulverulenta, contiene menos del 20 % de manteca NTC 518",
     "images": ["/images/cocoa.jpg"],
     "time": ""
   },
@@ -266,7 +266,7 @@
       "* 15 gramos de cera de abeja,"
     ],
     "preparation": "Se inicia derritiendo la manteca de cacao y el chocolate al 70%. Después se incorpora la cera de abeja y se mezcla hasta que se derrita completamente. Cuando los ingredientes estén derretidos se adiciona el aceite de oliva y se mezcla muy bien. Se vierte en el recipiente donde lo almacenaremos y se lleva a congelador por 20 minutos.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Producto cosmético, de textura pastosa y natural a base de cera de abejas, chocolate y manteca de cacao utilizada para protegerlos e hidratarlos.",
     "images": ["/images/protector_de_chocolate_para_labios.jpg"],
     "time": "40 minutos"
   },
@@ -281,7 +281,7 @@
       "* 5 gramos de pimienta en polvo,"
     ],
     "preparation": "Se ralla el cacao, la panela y se mezclan muy bien. La mezcla se pone al baño maría y se deja hervir 3 veces. Se tuesta el maní y la quinoa. se incorpora el maní, la quinoa y el polen, se mezclan y se en molda. se deja enfriar a temperatura ambiente y cuando esté duro, se desmolda.",
-    "description": "Es un bizcocho de chocolate pequeño. A veces se puede cubrir el bizcocho con jarabe de chocolate y puede llevar dentro trocitos de nueces, chocolate, butterscotch, una especie de toffee crujiente, mantequilla de cacahuete.",
+    "description": "Aderezo espeso de sabor dulce y semi amargo, perfecto para carnes",
     "images": ["/images/salsa_cacao_y_mango.jpg"],
     "time": "60 minutos"
   },
@@ -294,5 +294,115 @@
     "description": "El té de cascarilla de cacao es una infusión que se obtiene de la cascarilla de las semillas de cacao tostado. Se caracteriza por su sabor suave y aromático a chocolate.",
     "images": ["/images/te_de_cacao.jpg"],
     "time": "20 minutos"
+  },
+  {
+    "id": 20,
+    "title": "Chocolate blanco artesanal",
+    "author": "Liza Jhoana Giraldo",
+    "ingredients": ["* 30 gramos manteca de cacao,", "* 30 gramos de azucar", "250 gramos leche en polvo entera"],
+    "preparation": "Se filtra el mucilago pasándolo por un lienzo. Se mezcla el mucilago con el agua. Se adiciona el jugo de naranja y se mezcla bien. Se Calienta la mezcla a 85° por 15 minutos. Se adiciona hielo en una olla, se sumerge el recipiente con la mezcla hasta bajar la temperatura a 32° C, y generar un choque térmico. Se agrega la levadura granulada en un recipiente con agua tibia, se diluye y se agrega a la mezcla. Se adapta una ¨trampa¨ de aire, llamada airlock, en una botella, se adiciona la mezcla, se sella herméticamente y se almacena durante 15 días en un lugar fresco. Después de 15 días se abre, se separa el vino de la parte más turbia, y nuevamente se deja en la botella durante 1 mes más.",
+    "description": "El chocolate blanco es un producto que se elabora con manteca de cacao, leche o nata y azúcar NTC 792.",
+    "images": ["/images/chocolate_blanco.jpg"],
+    "time": "15 horas"
+  },
+  {
+    "id": 21,
+    "title": "Gotas de chocolate de la señora Emma",
+    "author": "Carlos Ramon",
+    "ingredients": ["* 350 gramos de cacao seco,", "* 250 mililitros de agua,", "* hojas de platano soasadas"],
+    "preparation": "Se tuestan los granos en un recipiente a fuego lento, adicionando un poco de agua para que se rehidraten y se mezclan hasta sentir el crack. Se descascarillan los granos, (triturándolos suavemente y soplándolos para retirar la cascarilla). Se muelen los granos de cacao de 2 a 3 veces hasta obtener la pasta de cacao. se extienden las hojas de plátano soasadas, se colocan las bolas de cacao y se cubren con la hoja. ",
+    "description": "Pasta o licor de cacao que a diferencia del método tradicional los granos se hidratan durante el tostion para que el cacao libere los aceites vegetales.",
+    "images": ["/images/Gotas_chocolate_señora_emma.jpg"],
+    "time": "120 minutos"
+  },
+  {
+    "id": 22,
+    "title": "Helado con licor de cacao",
+    "author": "Amparo Saffon",
+    "ingredients": ["* 15 gramos de Licor de cacao,", "* 10 gramos de nibs de cacao,", "* arequipe al gusto", "* 50 gramos de helado de vainilla"],
+    "preparation": "Se derrite el licor de cacao al baño maría, cuando tenga una textura pastosa de adicionan los nibs de cacao y se mezcla. se sirve el helado y se baña con el licor previamente derretido, por último se adiciona arequipe al gusto.",
+    "description": "Helado aderezado con cacao amargo y con el crunchy de los nibs ",
+    "images": ["/images/helado_cacao.jpg"],
+    "time": "20 minutos"
+  },
+  {
+    "id": 23,
+    "title": "Helado con licor de cacao",
+    "author": "Jose Ignacio Andica",
+    "ingredients": ["* 10 frutos (mazorcas) de cacao (preferiblemente CCN51, TSC01, FEAR5 por su alto contenido de mucilago),"],
+    "preparation": "Se seleccionan las mazorcas maduras ( colores claros más intensos).Se lavan las mazorcas con agua procurando retirar materiales extraños. Se abren los frutos y se desgranan completamente. Se pasan los granos a través de un lienzo de tela y se ejerce presión sobre los mismos para extraer el mucilago. Se recoge el mucilago en un recipiente y se calienta de 70° a 75°, entre 12 a 15 minutos. Se deja enfriar el mucilago, se embotella y se almacena a 7 ° C",
+    "description": "Sustancia viscosa y translúcida de aroma y sabor ácido, afrutado y dulce, muy refrescante e hidratante, obtenido del proceso de escurrimiento durante la fermentación.",
+    "images": ["/images/mucilago.jpg"],
+    "time": "120 minutos"
+  },
+  {
+    "id": 24,
+    "title": "Desodorante de cacao",
+    "author": "Alejandra Riaño",
+    "ingredients": ["* 125 gramos de aceite de coco,", "* 125 gramos de cera de abeja", "125 gramos manteca de cacao", "* 30 gramos de bicarbonato", "125 mililitros de monoserato de glicerilo"],
+    "preparation": "Se mezcla en un recipiente al baño maría el monoestearato de gliserillo y el aceite de coco. Se adiciona la manteca de cacao y se mezcla hasta obtener una pasta suave. Se agrega el bicarbonato de sodio y se mezcla bien, al obtener una mezcla homogénea se vierte en un recipiente y se deja enfriar y endurecer ante de usar.",
+    "description": "Pasta de origen natural a base de cera de abejas, manteca de cacao que ayuda a controlar la sudoración y el olor corporal. Utilizado como desodorante, crema hidratadora.",
+    "images": ["/images/desodorante_cacao.jpg"],
+    "time": "60 minutos"
+  },
+  {
+    "id": 25,
+    "title": "Coctel cremoso de cacao",
+    "author": "Alejandra Riaño",
+    "ingredients": ["* 45 gramos de cocoa o cacao puro,", "* 300 gramos de leche condensada", "* 190 gramos licor (ron o vodka)"],
+    "preparation": "Se mezcla la leche condensada,  el licor y el cacao puro. En caso de utilizar cacao puro, se debe derretir previamente al baño maría. Se pasan los ingredientes a una licuadora y se mezclan hasta tener un producto homogéneo. En un vaso se agrega hielo y se sirve el producto final.",
+    "description": "Bebida alcohólica cremosa, tipo cóctel, de sabor dulce y achocolatado.",
+    "images": ["/images/coctel_cremoso_chocolate.jpg"],
+    "time": "15 minutos"
+  },
+  {
+    "id": 26,
+    "title": "Turron de chocolate",
+    "author": "Hugo Leon Sanclemente",
+    "ingredients": ["* 125 gramos de licor de cacao,", "* 125 gramos de panela artesanal", "* 100 gramos maní tostado", "* 15 gramos de quinoa", "* 15 gramos de polen"],
+    "preparation": "Se ralla el cacao, la panela y se mezclan muy bien. La mezcla se pone al baño maría y se deja hervir 3 veces. Se tuesta el maní y la quinoa. se incorpora el maní, la quinoa y el polen, se mezclan y se en molda. se deja enfriar a temperatura ambiente y cuando esté duro, se desmolda.",
+    "description": "Deliciosa variante del tradicional turrón, de textura dura y sabor semi amargo, frutos secos y dulce polen.",
+    "images": ["/images/turron_de_cacao.jpg"],
+    "time": "60 minutos"
+  },
+  {
+    "id": 27,
+    "title": "Mascarilla de cacao",
+    "author": "Roger Yeison Polania",
+    "ingredients": ["* 50 gramos de licor de cacao,", "* 15 gramos de azucar morena", "* opcional 15 mililitros de aceite de oliva", "* opcional 15 gramos de fecula de maíz"],
+    "preparation": "Se derrite el cacao al baño maría, hasta que alcance una textura pastosa, no se recomienda dejar muy caliente. Al cacao se le adiciona azúcar y se mezcla muy bien. Si se desea aumentar las propiedades hidratantes y nutricionales, se agrega fécula de maíz, aceite de oliva y se mezcla muy bien hasta obtener producto homogéneo.",
+    "description": "Producto cosméticos a base de cacao, gracias a su alto contenido de antioxidantes ayuda a proteger, Nutrir e hidratar la piel.",
+    "images": ["/images/mascarilla_de_cacao.jpg"],
+    "time": "60 minutos"
+  },
+  {
+    "id": 28,
+    "title": "Chocolate de mano de res",
+    "author": "Amparo Erazo",
+    "ingredients": ["* 50 gramos de licor de cacao,", "* 500 gramos de mano de res", "* 2 gramos clavos de olor", "* 5 gramos de canela", "* 3 gramos de nuez moscada", "* panela al gusto", "* 1 litro de agua"],
+    "preparation": "En una olla a presión se pone a cocinar la mano de res con poca agua. Cuando la mano este bien cocinada se pasa por un filtro o colador, y se recoge toda el agua, esta contiene el colágeno, se pone a fuego medio el agua con la cual se cocinó la mano de res previamente y se agrega el licor de cacao, las especias y la panela. Al hervir el chocolate se debe disminuir la temperatura, se bate muy bien y se sube la temperatura nuevamente hasta que hierva, este proceso se repite 2 veces. Después de hervir el chocolate 3 veces, se puede servir",
+    "description": "Bebida amarga y especiada, de textura espesa que brinda los beneficios del colágeno extraído de la mano de res, altamente nutricional, saludable energética.",
+    "images": ["/images/chocolate_mano_res.jpg"],
+    "time": "40 minutos"
+  },
+  {
+    "id": 29,
+    "title": "Nibs de cacao con maní y arandanos",
+    "author": "Roger Yeison Polania",
+    "ingredients": ["* 300 gramos de nibs de cacao,", "* 100 gramos de maní", "* 100 gramos de arandanos deshidratados"],
+    "preparation": "Se tuesta el maní a fuego lento, mezclando constantemente para evitar que se queme. Cuando el maní este frio se ejerce una leve presión sobre los granos, que permita el desprendimiento de la cascarilla, sin dañar el grano, luego se sopla el maní procurando retirar solo la cascarilla. Se mezclan los nibs, el maní y los arándanos (estos últimos deben estar deshidratados para que el producto dure más).",
+    "description": "Snack de granos de cacao tostado, combinado con el dulce sabor de los arándanos. Una mezcla que permite combinar el Crunch y el amargo del cacao, con la suavidad y dulzor de los arándanos, rico en antioxidantes.",
+    "images": ["/images/nibs_arandanos.jpeg"],
+    "time": "25 minutos"
+  },
+  {
+    "id": 30,
+    "title": "Chocolate tradicional en aguapanela",
+    "author": "Luz Adriana Gaviria Erazo",
+    "ingredients": ["* 15 gramos de licor de cacao,", "* 1 gramo de clavos de olor,", "* 1 gramo de canela,","* 1 gramo de nuez moscada,","* 30 gramos de panela"],
+    "preparation": "Se prepara la agua panela, calentando agua a fuego medio y adicionando la panela hasta que hierva. Cuando la agua panela esta lista, se agrega el licor de cacao, los clavos, la canela y la nuez moscada, y se bate muy bien. Al hervir el chocolate se debe disminuir la temperatura, se vuelve a batir y se sube la temperatura nuevamente, hasta que hierva, este proceso se repite 2 veces.",
+    "description": "Snack de granos de cacao tostado, combinado con el dulce sabor de los arándanos. Una mezcla que permite combinar el Crunch y el amargo del cacao, con la suavidad y dulzor de los arándanos, rico en antioxidantes.",
+    "images": ["/images/chocolate_tradicional.png"],
+    "time": "15 minutos"
   }
 ]
