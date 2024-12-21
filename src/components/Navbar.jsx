@@ -61,7 +61,7 @@ const Navbar = () => {
                   activeLink === "recipes"
                     ? "bg-[#308d39]"
                     : "bg-[#41b94b] shadow-sm shadow-green-950"
-                } px-2 py-1 rounded-sm text-white sm:text-lg`}
+                } px-1 py-1 rounded-sm text-white sm:text-lg sm:px-2`}
                 to="/recipes-cacao"
               >
                 Recetas de cacao
@@ -74,7 +74,7 @@ const Navbar = () => {
                   activeLink === "history"
                     ? "bg-[#308d39]"
                     : "bg-[#41b94b] shadow-sm shadow-green-950"
-                } px-2 py-1 rounded-sm text-white sm:text-lg`}
+                } px-1 py-1 rounded-sm text-white sm:text-lg sm:px-2`}
                 to="/history-cacao"
               >
                 Historia del cacao

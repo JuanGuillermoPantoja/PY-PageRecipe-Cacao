@@ -15,7 +15,7 @@ const sectionHome = () => {
             id="welcomeHome"
             className="bg-black h-[300px] w-[60%] flex justify-center items-center rounded-md shadow-lg shadow-black "
           >
-            <h2 className="text-4xl text-center absolute z-10 w-[40%] ">
+            <h2 className="text-2xl text-center absolute z-10 w-[40%] md:text-4xl">
               ¡Bienvenidos a nuestro recetario web dedicado a preparaciones con
               cacao!
             </h2>
